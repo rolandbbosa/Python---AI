@@ -4,7 +4,7 @@ import schedule
 import time
 import openai
 
-openai.api_key = "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"
+openai.api_key = "OpenAI_API_Key"
 
 username = ''
 password = ''
