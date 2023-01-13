@@ -1,3 +1,5 @@
+## Works for Chrome Browser
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import schedule
